@@ -1,0 +1,10 @@
+{
+    "description": "GPIO Interface library for the Odroid C1/C1+",
+    "name": "framework-wiringpi-odroid",
+    "system": [
+        "linux_armv6l",
+        "linux_armv7l"
+    ],
+    "url": "http://wiringpi.com",
+    "version": "1.232.0"
+}
